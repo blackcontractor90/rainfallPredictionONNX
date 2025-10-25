@@ -140,6 +140,7 @@ Notes:
 
 - Model scaling:
   - `StandardScalerUtil` can load mean/scale arrays and scale features; make sure the arrays align to the feature ordering.
+  - Use the script for generating LSTM models from this repo: https://github.com/blackcontractor90/LSTMmodelgenerator
 
 ---
 
